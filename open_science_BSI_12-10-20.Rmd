@@ -1,0 +1,78 @@
+---
+title: 
+output: 
+  revealjs::revealjs_presentation:
+    theme: sky
+    self_contained: false
+    reveal_plugins: ["chalkboard"]
+    css: "style/style.css"
+    slide_level: 1
+    incremental: true
+---
+
+
+# Open Science {data-background-image="style/bsi_header.jpg" data-background-position="top left"}
+## Julian Quandt {style="text-align: center"}
+### Radboud University {style="text-align: center"}
+
+ <img src="assets/openscience.png" alt="openscience" style="width:auto;height:400px !important; position:fixed; left:275px; top:270px; max-height:none; border:none; box-shadow:none">
+
+# What is Open Science?
+
+<div id="my-div">
+<iframe src="https://presenter.ahaslides.com/share/1600873211910-w1er4sdqqz?presenting=true" id="my-iframe" scrolling="no"></iframe>
+</div>
+
+
+# Preregistartion
+
+## What is Preregistration? 
+
+ <img src="assets/think_ahead.jpg" alt="Thinkahead" style="width:auto;height:500px !important; position:fixed; top:180px; right:-50px; max-height:none; border:none">
+
+
+### Before seeing the data {.element class="fragment"}
+
+
+* __What can I expect from the results?__
+  * e.g. alternative hypotheses
+* __What do I need to keep in mind <br> when conducting my experiment?__
+  * e.g. sample size, exclusion criteria
+* __How will I answer my question?__
+  * e.g. confirmatory and exploratory
+
+
+# Resources on Preregistration?
+
+[BSI View on Preregistration](https://www.ru.nl/bsi/research/preregistration/preregistration/)
+
+[BSI Preregistration Award](https://www.ru.nl/bsi/research/preregistration/preregistration-award/)
+
+[FAQ and Resources](https://www.ru.nl/bsi/research/preregistration/faq-resources/)
+
+
+# Beyond Preregistration
+
+## Open Data & Material {.element class="fragment" data-fragment-index="0"}
+
+<ul>
+<li class="fragment" data-fragment-index="1">Your data and material might be very valuable to other people</li>
+</ul>
+
+<h2 class="element fragment" data-fragment-index="2" id="open-source-open-access">Open Source &amp; Open Access</h2>
+
+<ul>
+  <li class="fragment" data-fragment-index="3">Use Open Source software whenever possible — Many scientists are not as lucky as we are to afford Inquisit and SPSS… it also saves money</li>
+  <li class="fragment" data-fragment-index="3">Make sure other people could reproduce what you did (Reproducability!)</li>
+  <li class="fragment" data-fragment-index="3">make your manuscript available (Preprints / Postprints / Open Access Journals)</li>
+</ul>
+
+
+# That's all
+
+## Contact me for any questions
+
+## Getting involved
+
+[Open Science Community Nijmegen](https://openscience-nijmegen.nl/) has various resources on Open Science on their website and organizes meetings and events.
+ <img src="assets/OSCNlogo.png" alt="OSCN" style="width:auto;height:200px !important; position:fixed; left:270px; top:440px; max-height:none; border:none">

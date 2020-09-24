@@ -1,0 +1,142 @@
+/* Whole document: */
+body{
+  font-family: Quicksand;
+  font-size: 16pt;
+  line-height:32px;
+  /*for a background-image: <background-image: url("bsi_header.jpg");*/
+  background-color: rgba(233,229,226); }
+/* Headers */
+.reveal h1{
+  font-size: 60pt;
+  font-weight: bold;
+  color: rgba(189,49,24);
+}
+
+.reveal{
+  font-family: Quicksand;
+}
+
+.reveal h2{
+  text-align: left;
+}
+
+.reveal h3{
+  text-align: left;
+}
+
+.reveal h4{
+  text-align: left;
+}
+
+.reveal h5{
+  text-align: left;
+}
+
+ .reveal p {
+    text-align: left;
+  }
+ .reveal ul {
+    display: block;
+  }
+ .reveal ol {
+    display: block;
+  }
+
+#my-div
+{
+    width    : 1000px;
+    height   : 700px;
+    overflow : hidden;
+    position : absolute;
+    top: -20px;
+}
+
+#my-iframe
+{
+    position : relative;
+    bottom   : -135px;
+    width    : 1000px;
+    height   : 1000px;
+}
+
+/*This changes the picture in the header */
+.entry-image {
+  min-height: 250px;
+}
+
+/*this allows for a logo in the very upper-right corner if you add it as
+an html-image referring with class=ribbon */
+.ribbon {
+  position:absolute;
+  top:0;
+  right:0; }
+
+/*change title color*/
+h1.title {
+  color: rgba(189,49,24);
+  }
+
+.entry-content {
+  line-height: 1.5;
+}
+
+li {
+  margin: inherit 0;
+}
+
+.reveal ul{
+  font-family: Quicksand;
+  margin-top: -10px;
+  margin-bottom: 25px;
+}
+
+th {
+  background-color: rgba(189,49,24, 0.8);
+}
+tr.even {
+  background-color: rgba(233,229,226, 0.8);
+}
+tr.odd {
+  background-color: rgba(248, 248, 246, 0.8) !important;
+}
+
+.tabwid table tr {
+background-color: white;
+}
+
+.main-container {
+    margin-left: 200px !important;
+}
+
+.table-container
+{
+	width: 100%;
+	overflow-y: auto;
+	_overflow: auto;
+	margin: 0 0 1em;
+}
+
+
+body {
+  background-image: url('logo.jpg'), url('bsi_header.jpg');
+  background-repeat: no-repeat;
+  background-position: 95% 5%, bottom;
+  background-size: auto 15%,cover;
+  }
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#TOC {
+    margin: 0px 0px 0px -200px !important;
+}
+
+/*horizontal lines between sections*/
+hr {
+  border-top-color: rgb(181,43,26);
+  border-top-width: 5px;
+}
