@@ -24,23 +24,29 @@ output:
 </div>
 
 
-# Preregistartion
+# Preregistration
 
 ## What is Preregistration? 
 
  <img src="assets/think_ahead.jpg" alt="Thinkahead" style="width:auto;height:500px !important; position:fixed; top:180px; right:-50px; max-height:none; border:none">
 
 
-### Before seeing the data {.element class="fragment"}
+<h3 class="element fragment" id="before-seeing-the-data" data-fragment-index="0">Before seeing the data</h3>
 
-
-* __What can I expect from the results?__
-  * e.g. alternative hypotheses
-* __What do I need to keep in mind <br> when conducting my experiment?__
-  * e.g. sample size, exclusion criteria
-* __How will I answer my question?__
-  * e.g. confirmatory and exploratory
-
+<ul>
+<li class="fragment" data-fragment-index="1"><strong>What can I expect from the results?</strong>
+<ul>
+<li class="fragment" data-fragment-index="1">e.g.&nbsp;alternative hypotheses</li>
+</ul></li>
+<li class="fragment" data-fragment-index="2"><strong>What do I need to keep in mind <br> when conducting my experiment?</strong>
+<ul>
+<li class="fragment" data-fragment-index="2">e.g.&nbsp;sample size, exclusion criteria</li>
+</ul></li>
+<li class="fragment" data-fragment-index="3"><strong>How will I answer my question?</strong>
+<ul>
+<li class="fragment" data-fragment-index="3">e.g.&nbsp;confirmatory and exploratory</li>
+</ul></li>
+</ul>
 
 # Resources on Preregistration?
 
@@ -49,6 +55,8 @@ output:
 [BSI Preregistration Award](https://www.ru.nl/bsi/research/preregistration/preregistration-award/)
 
 [FAQ and Resources](https://www.ru.nl/bsi/research/preregistration/faq-resources/)
+
+<img src="assets/website.png" alt="bsi-website" style="width:500px;height:auto !important; position:fixed; right:-100px; top:210px; max-height:none; border:none">
 
 
 # Beyond Preregistration
