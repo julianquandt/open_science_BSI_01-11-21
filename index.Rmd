@@ -19,9 +19,7 @@ output:
 
 # What is Open Science?
 
-<div id="my-div">
-<iframe src="https://www.mentimeter.com/s/84ae0683d13f21e37b8a348ac93a2368/07098071d932" id="my-iframe" scrolling="no"></iframe>
-</div>
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/embed/84ae0683d13f21e37b8a348ac93a2368/07098071d932' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
 
 
 # Preregistration
