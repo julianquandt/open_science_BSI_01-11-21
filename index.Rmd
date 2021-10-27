@@ -59,6 +59,15 @@ output:
 <img src="assets/website.png" alt="bsi-website" style="width:500px;height:auto !important; position:fixed; right:-100px; top:210px; max-height:none; border:none">
 
 
+# BSI Scientific Rigor Group
+
+A new initiative within the BSI:
+
+- Connect people within the BSI who already have some expertise with Open Science
+- Building a support infrastructure for Open Science Questions within the BSI and departments
+- ... (this list is preliminary we just had our first meeting)
+
+
 # Beyond Preregistration
 
 ## Open Data & Material {.element class="fragment" data-fragment-index="0"}
@@ -71,7 +80,7 @@ output:
 
 <ul>
   <li class="fragment" data-fragment-index="3">Use Open Source software whenever possible — Many scientists are not as lucky as we are to afford Inquisit and SPSS… it also saves money</li>
-  <li class="fragment" data-fragment-index="3">Make sure other people could reproduce what you did (Reproducability!)</li>
+  <li class="fragment" data-fragment-index="3">Make sure other people could reproduce what you did (Reproducibility!)</li>
   <li class="fragment" data-fragment-index="3">make your manuscript available (Preprints / Postprints / Open Access Journals)</li>
 </ul>
 
@@ -84,3 +93,4 @@ output:
 
 [Open Science Community Nijmegen](https://openscience-nijmegen.nl/) has various resources on Open Science on their website and organizes meetings and events.
  <img src="assets/OSCNlogo.png" alt="OSCN" style="width:auto;height:200px !important; position:fixed; left:270px; top:440px; max-height:none; border:none">
+
